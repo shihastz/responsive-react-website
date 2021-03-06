@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/responsive-react-website/static/css/main.d6dae0ed.chunk.css",
+    "main.js": "/responsive-react-website/static/js/main.0ff3241c.chunk.js",
+    "main.js.map": "/responsive-react-website/static/js/main.0ff3241c.chunk.js.map",
+    "runtime-main.js": "/responsive-react-website/static/js/runtime-main.4df3d48d.js",
+    "runtime-main.js.map": "/responsive-react-website/static/js/runtime-main.4df3d48d.js.map",
+    "static/js/2.6c874ea3.chunk.js": "/responsive-react-website/static/js/2.6c874ea3.chunk.js",
+    "static/js/2.6c874ea3.chunk.js.map": "/responsive-react-website/static/js/2.6c874ea3.chunk.js.map",
+    "index.html": "/responsive-react-website/index.html",
+    "static/css/main.d6dae0ed.chunk.css.map": "/responsive-react-website/static/css/main.d6dae0ed.chunk.css.map",
+    "static/js/2.6c874ea3.chunk.js.LICENSE.txt": "/responsive-react-website/static/js/2.6c874ea3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df3d48d.js",
+    "static/js/2.6c874ea3.chunk.js",
+    "static/css/main.d6dae0ed.chunk.css",
+    "static/js/main.0ff3241c.chunk.js"
+  ]
+}
